@@ -1,0 +1,12 @@
+# eBaySearchApp
+This application is responsive to PC/laptop and mobile device. 
+It allows users to search for items based on various criteria like minimum/maximum price, shipping time, shipping cost, keywords,etc...
+The php is hosted on Amazon AWS. 
+Technologies used:
+  Javascript
+  PHP
+  JSON
+  Bootstrap
+  facebook mashup
+  HTML
+
